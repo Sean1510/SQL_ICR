@@ -12,5 +12,4 @@ WHERE
   ("Solved?" = false)
 ORDER BY
   "Matching Assignment",
-  "Reference Key",
   "Posting Date";
